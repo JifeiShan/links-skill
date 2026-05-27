@@ -4,12 +4,21 @@
 
 Core idea:
 
-> Put yourself back at the edge of the world, then bring what you saw back as a work others can enter.
+> Put yourself back at the edge of the world, then bring what you saw, endured, made, and thanked back as a work others can enter.
 
 ## Contents
 
 - `SKILL.md` — LingTai skill: `linksphotograph-world-edge`
 - `LICENSE` — CC BY-NC-SA 4.0
+
+## What changed in v1.1
+
+This version expands the original skeleton into a fuller method based on public Weibo/text/image-structure patterns:
+
+- dream / world-edge / body-at-scene / technical labor / gratitude / product chain;
+- image and video analysis prompts for reading public posts without impersonation;
+- low-cost “world edge” translations for ordinary creators;
+- question banks for passion, destination choice, account positioning, and commercialization.
 
 ## Boundary
 
